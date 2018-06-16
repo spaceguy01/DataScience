@@ -30,14 +30,14 @@ This plot shows a linear relationship between PPG Difference and the Number of G
 
 ### Seaborn Violin Plot showing the relationship between Number of Wins vs PPG Difference
 
-<img src='ESPN_NBA_Standing/images/winPPGdiffViolin.png'>
+<img src='images/winPPGdiffViolin.png'>
 
 This uses the same data but using a different type of plot. In this plot, it shows that teams with 24 games won in the season has PPG Difference ranging from near 0 to around -8.0, teams with 48 wins had PPG Difference ranging from just under 0 to about 6.
 The team with 48 wins but had negative PPG difference means although they won a lot of games, there were few games where when they lost, they lost by lot of points, which decreased the PPG difference.
 
 ### Seaborn Strip Plot showing the relationship between Number of Wins vs Opponent Points Per Game
 
-<img src='ESPN_NBA_Standing/images/winOppPPGstrip.png'>
+<img src='images/winOppPPGstrip.png'>
 
 This plot looks into the number of games won in the season vs how many points per game average opponents scored. 
 This shows that there's no direct relationship but one can infer there is some relatioship between the two. 
@@ -47,7 +47,7 @@ However, one can infer that in order to win more games, one should give up less 
 
 ### Matplotlib Stacked Bar Plot showing Number of Wns and Number of Losses compared to Total Games played in the season
 
-<img src='ESPN_NBA_Standing/images/teamwinlossBox.png'>
+<img src='images/teamwinlossBox.png'>
 
 This plot shows the Total number of games in the season with Number of Wins stacked on top of Number of Losses. 
 This is another way of looking at the amount of games won/lost in the season. As one can see, there's a gradual increase, almost linear, of the amount of games won/lost. 
@@ -55,7 +55,7 @@ It seems to be a Linear Regression and no real outliers
 
 ### Seaborn Stacked Horizontal Bar Plot showing relationship between Number of Losses vs Opponent Points Per Game for each team
  
- <img src='ESPN_NBA_Standing/images/teamlossOppPPGbar.png'>
+ <img src='images/teamlossOppPPGbar.png'>
  
  This plot shows a stacked horizontal bar plot which compares the Number of Losses for each team and the amount of points they gave up (Opp PPG)
  The inner Pastel colored values are the amount of games lost and the darker values are the average score of opponents this season.
@@ -75,6 +75,6 @@ It seems to be a Linear Regression and no real outliers
  - Using Expanded Standings data to further determine which division or conference is better / worse and which is easier / harder to play in
  - Using Expanding Standings to analyze how each team did in close games (3 PT Games) vs not as close games (10 PT Games). Also using **VS .500 and Above** teams, **VS Below .500** teams, and Overtime(OT) games to better understand the strength / weakness of each team
  
- <img src='ESPN_NBA_Standing/images/EspnNBADivisionStandingspng.png'>
+ <img src='images/EspnNBADivisionStandingspng.png'>
  
- <img src='ESPN_NBA_Standing/images/EspnNBAExpandingStandings.png'>
+ <img src='images/EspnNBAExpandingStandings.png'>
