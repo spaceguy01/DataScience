@@ -6,25 +6,25 @@ Website: http://www.espn.com/nba/standings/_/group/league<br>
 
 ### Sample view of Data Table in ESPN NBA Standings website
 
-<img src="ESPN_NBA_Standing/images/EspnNBAStanding.png" width="800">
+<img src="images/EspnNBAStanding.png" width="800">
 
 ### BeautifulSoup was used to scrape the data from the League Standings table and imported into Pandas DataFrame. This is a sample view of the first 5 entries of the DataFrame (head())
 
-<img src="ESPN_NBA_Standing/images/ESPN_NBA_DataFrame.png">
+<img src="images/ESPN_NBA_DataFrame.png">
 
 ## Using Seaborn as Visualization Tool using Pandas DataFrame
 
 ### Seaborn Bar Plot showing Team and Winning Percentage for the season in a descending order from left to right
 This plot shows the winning percentage of each team for the 2017-2018 season
 
-<img src="ESPN_NBA_Standing/images/teamwin.png">
+<img src="images/teamwin.png">
 
 ### Seaborn Joint Plot showing the relationship between Number of Winning Games vs Points Per Game Difference
 Here the Points Per Game Difference is the average number of points in games the team beat it's opponents by.
 The calculation is based on Points Per Game (PPG) minus Opponent Points Per Game (Opp PPG). Another way of arriving at this number is by (Total Points Scored in Season - Total Points Gave Up in season) / Number of Games.
 Higher the PPG difference, the higher margin of score games won by. Lower the PPG difference, the lower margin of score games won by, or lost by.
 
-<img src='ESPN_NBA_Standing/images/winPPGdiffLinear.png'>
+<img src='images/winPPGdiffLinear.png'>
 
 This plot shows a linear relationship between PPG Difference and the Number of Games Won. It shows that majority of teams won around **40 Games** with a Points Per Game Difference of **± 5 points**, which means they were close games
 
