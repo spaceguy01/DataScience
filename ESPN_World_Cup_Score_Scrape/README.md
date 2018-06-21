@@ -6,23 +6,23 @@
 
 **Sample of ESPN Website Score for 2018 World Cup**
 
-<img src='/images/ESPN_WorldCup_2018_Sample_Score.png'>
+<img src='images/ESPN_WorldCup_2018_Sample_Score.png'>
 
 -----------------------------------------------------------------------------------
 
 **Sample of Scraped Data showing Finished Game with Score and Winner**
 
-<img src='/images/FinishedGame.png'>
+<img src='images/FinishedGame.png'>
 
 
 -----------------------------------------------------------------------------------
 
 **Sample of Scraped Data showing Tie Game with Score**
 
-<img src='/images/TieGame.png'>
+<img src='images/TieGame.png'>
 
 -----------------------------------------------------------------------------------
 
 **Sample of Scraped Data showing Scheduled Game with Network, Time and Game info**
 
-<img src='/images/ScheduledGame.png'>
+<img src='images/ScheduledGame.png'>
