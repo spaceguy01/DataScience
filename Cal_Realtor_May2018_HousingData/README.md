@@ -1,16 +1,17 @@
-*Current Sales & Price Statistics for California Realtor Single Family Home Sales in May 2018*
+****Current Sales & Price Statistics for California Realtor Single Family Home Sales in May 2018****
 
-***Month to Month (Apr-2018 / May-2018) and Year to Year (May-2017 / May-2018) Price Change and Number of Sales Change for SF Bay Counties and Southern California Counties***
-****SFBay Counties and Southern California Counties for sample purpose****
+**Month to Month (Apr-2018 / May-2018) and Year to Year (May-2017 / May-2018) Price Change and Number of Sales Change for SF Bay Counties and Southern California Counties**
 
-****Los Angeles Metropolitan Area is a 5-county region that includes :**** Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County
+***SFBay Counties and Southern California Counties for sample purpose***
 
-****S.F. Bay Area has been redefined to include the following counties :**** Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
+***Los Angeles Metropolitan Area is a 5-county region that includes :*** Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County
+
+***S.F. Bay Area has been redefined to include the following counties :*** Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
 
 *   MTM% Chg = Percent change from prior month
 *   YTY% Chg = Percent change from prior year  
 
-***Sample Excel Data of SFH Sales and Price Change***
+**Sample Excel Data of SFH Sales and Price Change**
 
 <img src='images/SFHsample.png'>
 
