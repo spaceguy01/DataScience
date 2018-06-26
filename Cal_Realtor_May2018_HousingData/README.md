@@ -1,52 +1,52 @@
-****Current Sales & Price Statistics for California Realtor Single Family Home Sales in May 2018****
+#Current Sales & Price Statistics for California Realtor Single Family Home Sales in May 2018#
 
-**Month to Month (Apr-2018 / May-2018) and Year to Year (May-2017 / May-2018) Price Change and Number of Sales Change for SF Bay Counties and Southern California Counties**
+##Month to Month (Apr-2018 / May-2018) and Year to Year (May-2017 / May-2018) Price Change and Number of Sales Change for SF Bay Counties and Southern California Counties##
 
-***SFBay Counties and Southern California Counties for sample purpose***
+###SFBay Counties and Southern California Counties for sample purpose###
 
-***Los Angeles Metropolitan Area is a 5-county region that includes :*** Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County
+###Los Angeles Metropolitan Area is a 5-county region that includes :### Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County
 
-***S.F. Bay Area has been redefined to include the following counties :*** Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
+###S.F. Bay Area has been redefined to include the following counties :### Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
 
 *   MTM% Chg = Percent change from prior month
 *   YTY% Chg = Percent change from prior year  
 
-**Sample Excel Data of SFH Sales and Price Change**
+##Sample Excel Data of SFH Sales and Price Change##
 
 <img src='images/SFHsample.png'>
 
 
-**SF BAY COUNTIES**
+##SF BAY COUNTIES##
 <img src='images/SFBayCounties.gif'>
 
-***Import data into Pandas Data Frame : SF Bay Counties***
+###Import data into Pandas Data Frame : SF Bay Counties###
 
 <img src='images/SFBayraw.png'>
 
-***Clean Up Data : Remove 'nan', change column names, create headers for category, multiply % by 100 to make it out of 100%, change significant figures on % change***
+###Clean Up Data : Remove 'nan', change column names, create headers for category, multiply % by 100 to make it out of 100%, change significant figures on % change###
 
 <img src='images/SFBayheader.png'>
 
-**SF Bay Area: Year to Year Median Sold Price of Existing Single Family Homes (May-2017 / May-2018)**
+##SF Bay Area: Year to Year Median Sold Price of Existing Single Family Homes (May-2017 / May-2018)##
 <img src='images/SFBayYTYprice.png'>
 
 **Price has risen for all counties of SF Bay area from May 2017 to May 2018**
 ---
 
-**SF Bay Area: Year to Year Price Change % in Existing Single Family Homes (May-2017 / May-2018)**
+##SF Bay Area: Year to Year Price Change % in Existing Single Family Homes (May-2017 / May-2018)##
 <img src='images/SFBayYTYpriceperc.png'>
 
 **Almost all counties in SF Bay area has risen by more than 5%**
 ---
 
-**SF Bay Area: Month to Month Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018)**
+##SF Bay Area: Month to Month Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018)##
 <img src='images/SFBayMTMprice.png'>
 
 **On a Month to Month basis, some county's prices have dropped slightly**
 
 ---
 
-**SF Bay Area: Month to Month % Change in Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018)**
+##SF Bay Area: Month to Month % Change in Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018)##
 
 <img src='images/SFBayMTMpriceperc.png'>
 
@@ -54,33 +54,33 @@
 
 ---
 
-**SF Bay Area: Year to Year number of Existing Single Family Home Sales (Apr-2018 / May-2018)**
+##SF Bay Area: Year to Year number of Existing Single Family Home Sales (Apr-2018 / May-2018)##
 <img src='images/SFBayYTYprice.png'>
 
 **Number of Sales in SF Bay counties varies Year to Year. Some counties observed increase in number of sales, while some decreased**
 ---
 
-**SF Bay Area: Year to Year % change in Number of Existing Single Family Home Sales (May-2017 / May-2018)**
+##SF Bay Area: Year to Year % change in Number of Existing Single Family Home Sales (May-2017 / May-2018)##
 <img src='images/SFBayYTYsalesperc.png'>
 
 **Napa County has seen almost 15% decrease in number of sales while San Francisco County has seen an increase of almost 10%**
 ---
 
-**SF Bay Area: Month to Month Number of Existing Single Family Home Sales (Apr-2018 / May-2018)**
+##SF Bay Area: Month to Month Number of Existing Single Family Home Sales (Apr-2018 / May-2018)##
 <img src='images/SFBayMTMsales.png'>
 
 **Month to Month, some counties saw an increase in number of sales while others saw a decrease. San Mateo saw the biggest amount of decrease**
 
 ---
 
-**SF Bay Area: Month to Month Percent Change in Number of Existing Single Family Home Sales (Apr-2018 / May-2018)**
+##SF Bay Area: Month to Month Percent Change in Number of Existing Single Family Home Sales (Apr-2018 / May-2018)##
 <img src='images/SFBayMTMsalesperc.png'>
 
 **Month to Month every county in SF Bay has seen an increase of more than 10% in number of sales**
 
 ---
 
-**SOUTHERN CALIFORNIA COUNTIES**
+##SOUTHERN CALIFORNIA COUNTIES##
 <img src='images/SoCalMap.png'>
 
 ***Import data into Pandas Data Frame : SoCal Counties***
