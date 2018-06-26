@@ -30,14 +30,14 @@
 ***SF Bay Area: Year to Year Median Sold Price of Existing Single Family Homes (May-2017 / May-2018)***
 <img src='images/SFBayYTYprice.png'>
 
-**Price has risen for all counties of SF Bay area from May 2017 to May 2018**
+***Price has risen for all counties of SF Bay area from May 2017 to May 2018***
+---
 
-
-***SF Bay Area: Year to Year Price Change % in Existing Single Family Homes (May-2017 / May-2018)***
+**SF Bay Area: Year to Year Price Change % in Existing Single Family Homes (May-2017 / May-2018)**
 <img src='images/SFBayYTYpriceperc.png'>
 
-**Almost all counties in SF Bay area has risen by more than 5%**
-
+***Almost all counties in SF Bay area has risen by more than 5%***
+---
 
 ***SF Bay Area: Month to Month Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018)***
 <img src='images/SFBayMTMprice.png'>
