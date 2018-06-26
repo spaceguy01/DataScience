@@ -2,7 +2,7 @@
 
 ***Using Selenium webdriver, scraped 2018 World Cup Scores and Schedule from ESPN. This was just a simple webscraping mini project***
 
-***If game was played and finished, then score and who won has been shown. If game has not been played, then schedule for the game is shown***
+***If game was played and finished, then score and who won has been shown. If game has not been played, then schedule for the game is shown. If the game is currently in progress, it shows how many minutes into the game and who is currently winning or if tied.***
 
 **Sample of ESPN Website Score for 2018 World Cup**
 
