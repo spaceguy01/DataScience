@@ -6,20 +6,20 @@
 
 #### Los Angeles Metropolitan Area is a 5-county region that includes : **Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County**
 
-#### S.F. Bay Area has been redefined to include the following counties : **Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma**
+#### San Francisco Bay Area has been redefined to include the following counties : **Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma**
 
 #### *   MTM% Chg = Percent change from prior month
 #### *   YTY% Chg = Percent change from prior year  
 
-### Sample Excel Data of SFH Sales and Price Change
+### Sample Excel Data of Single Family Homes Sales and Price Change
 
 <img src='images/SFHsample.png'>
 
 ---
-### SF BAY COUNTIES 
+### SAN FRANCISCO BAY COUNTIES 
 <img src='images/SFBayCounties.gif'>
 
-#### Import data into Pandas Data Frame : SF Bay Counties 
+#### Import data into Pandas Data Frame : San Francisco Bay Counties 
 
 <img src='images/SFBayraw.png'>
 
