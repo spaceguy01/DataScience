@@ -15,7 +15,7 @@
 
 <img src='images/SFHsample.png'>
 
-
+---
 ### SF BAY COUNTIES 
 <img src='images/SFBayCounties.gif'>
 
@@ -27,6 +27,7 @@
 
 <img src='images/SFBayheader.png'>
 
+---
 ### SF Bay Area: Year to Year Median Sold Price of Existing Single Family Homes (May-2017 / May-2018) 
 <img src='images/SFBayYTYprice.png'>
 
@@ -91,36 +92,37 @@
 
 <img src='images/SoCalheader.png'>
 
+---
 ### SoCal Area: Year to Year Median Sold Price of Existing Single Family Homes (May-2017 / May-2018) 
 <img src='images/SoCalYTYprice.png'>
 
 #### Price has risen for all counties of SoCal area from May 2017 to May 2018 
 
-
+---
 ### SoCal Area: Year to Year Price Change % in Existing Single Family Homes (May-2017 / May-2018) 
 <img src='images/SoCalYTYpriceperc.png'>
 
 #### All counties in SoCal area has risen by more than 4% with Los Angeles and Riverside seeing the highest growth 
 
-
+---
 ### SoCal Area: Month to Month Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018) 
 <img src='images/SoCalMTMprice.png'>
 
 #### On a Month to Month basis, almost all counties saw an increase except San Bernardino county 
 
-
+---
 ### SoCal Area: Month to Month % Change in Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018) 
 <img src='images/SoCalMTMpriceperc.png'>
 
 #### Almost all SoCal counties saw a rise in price change of 1% or more Month to Month except for San Bernardino which saw a decrease of around 2% 
 
-
+---
 ### SoCal Area: Year to Year number of Existing Single Family Home Sales (Apr-2018 / May-2018) 
 <img src='images/SoCalYTYprice.png'>
 
 #### Almost all SoCal counties saw a decrease in number of Existing Home Sales Year to Year except San Bernardino County which saw a small increase 
 
-
+---
 ### SoCal Area: Year to Year % change in Number of Existing Single Family Home Sales (May-2017 / May-2018) 
 <img src='images/SoCalYTYsalesperc.png'>
 
@@ -132,12 +134,13 @@
 
 #### Month to Month, every county in SoCal saw an increase in number of Existing Home Sales 
 
+---
 ### SoCal Area: Month to Month Percent Change in Number of Existing Single Family Home Sales (Apr-2018 / May-2018) 
 <img src='images/SoCalMTMsalesperc.png'>
 
 #### Month to Month, all SoCal counties saw a 5% or more increase in Existing Home Sales with Los Angeles county seeing the highest around 17.5% 
 
-
+---
 ### This was a mini project in taking an Excel data sheet from the California Realtor's Association website showing YTY and MTM data of various counties all over California 
 
 #### - For the purpose of keeping this project short, Central California Counties and many other Counties including Central Valley and Inland Empire were not included 
