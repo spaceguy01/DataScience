@@ -7,7 +7,7 @@
 
 ****S.F. Bay Area has been redefined to include the following counties :**** Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
 
-*   MTM%c Chg = Percent change from prior month
+*   MTM% Chg = Percent change from prior month
 *   YTY% Chg = Percent change from prior year  
 
 ***Sample Excel Data of SFH Sales and Price Change***
