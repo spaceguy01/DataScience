@@ -12,22 +12,22 @@
 
 ***Sample Excel Data of SFH Sales and Price Change***
 
-<img src='/images/SFHsample.png'>
+<img src='images/SFHsample.png'>
 
 
 **SF BAY COUNTIES**
-<img src='Cal_Realtor_May2018_HousingData/images/SFBayCounties.gif'>
+<img src='images/SFBayCounties.gif'>
 
 ***Import data into Pandas Data Frame : SF Bay Counties***
 
-<img src='Cal_Realtor_May2018_HousingData/images/SFBayraw.png'>
+<img src='images/SFBayraw.png'>
 
 ***Clean Up Data : Remove 'nan', change column names, create headers for category, multiply % by 100 to make it out of 100%, change significant figures on % change***
 
-<img src='Cal_Realtor_May2018_HousingData/images/SFBayheader.png'>
+<img src='images/SFBayheader.png'>
 
 ***SF Bay Area: Year to Year Median Sold Price of Existing Single Family Homes (May-2017 / May-2018)***
-<img src='Cal_Realtor_May2018_HousingData/images/SFBayYTYprice.png'>
+<img src='images/SFBayYTYprice.png'>
 
 **Price has risen for all counties of SF Bay area from May 2017 to May 2018**
 
