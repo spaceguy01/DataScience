@@ -4,9 +4,9 @@
 
 #### SFBay Counties and Southern California Counties for sample purpose
 
-#### Los Angeles Metropolitan Area is a 5-county region that includes : Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County
+#### Los Angeles Metropolitan Area is a 5-county region that includes : **Los Angeles County, Orange County, Riverside County, San Bernardino County, and Ventura County**
 
-#### S.F. Bay Area has been redefined to include the following counties : Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma
+#### S.F. Bay Area has been redefined to include the following counties : **Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma**
 
 #### *   MTM% Chg = Percent change from prior month
 #### *   YTY% Chg = Percent change from prior year  
