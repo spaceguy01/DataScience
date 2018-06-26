@@ -46,6 +46,7 @@
 
 
 ***SF Bay Area: Month to Month % Change in Median Sold Price of Existing Single Family Homes (Apr-2018 / May-2018)***
+
 <img src='images/SFBayMTMpriceperc.png'>
 
 **Some counties' prices had gone up while some have gone down for Month to Month**
