@@ -12,7 +12,7 @@
 
 ***Sample Excel Data of SFH Sales and Price Change***
 
-<img src='Cal_Realtor_May2018_HousingData/images/SFHsample.png'>
+<img src='images/SFHsample.png'>
 
 
 **SF BAY COUNTIES**
