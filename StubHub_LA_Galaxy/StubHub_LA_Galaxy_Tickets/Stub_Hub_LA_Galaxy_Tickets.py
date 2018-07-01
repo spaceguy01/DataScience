@@ -87,5 +87,3 @@ for each in range(0,len(sites)):
 
     driver.close()
     driver.switch_to_window(main_window)
-    
-
