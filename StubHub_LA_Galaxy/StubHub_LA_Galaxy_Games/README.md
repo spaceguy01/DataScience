@@ -4,7 +4,7 @@
 
 Website URL : https://www.stubhub.com/la-galaxy-tickets/performer/12587/
 
-####W hen scraping, the webpage detects and puts up a human verification check similar to CAPTCHA test
+#### When scraping, the webpage detects and puts up a human verification check similar to CAPTCHA test
 
 <img src='images/Human_Check.png'>
 
