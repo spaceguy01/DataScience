@@ -16,12 +16,12 @@ Website URL : https://www.stubhub.com/la-galaxy-tickets/performer/12587/
 
 #### When the scraper is run, it will click on each game links, then scrape the tickets page to get the list of tickets available
 
-<img src='images/Sample_Ticket_Site.png'>
+<img src='images/Sample_Tickets_Site.png'>
 
 #### Scraper will go through each ticket site, and get the information of tickets available, seating, how many left, cost, etc.
 
 
-<img src='images/Sample_Games_Output.png'>
+<img src='images/Sample_Tickets_Output.png'>
 
 
 #### This mini project was done just for Los Angeles Galaxy games, but similar coding style can be used for other team games in the website
