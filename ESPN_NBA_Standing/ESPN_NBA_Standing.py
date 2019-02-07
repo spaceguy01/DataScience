@@ -36,8 +36,8 @@ teaminfo  = []
 teams = tables[0]  #Teams Table with Team Code and Team Name
 for each in teams:
     team = each.findAll('span')
-    teamcode = (team[2].text)
-    teamname = (team[3].text)
+    teamcode = (team[1].text)
+    teamname = (team[2].text)
     teaminfo.append((teamname,teamcode))
 
 
